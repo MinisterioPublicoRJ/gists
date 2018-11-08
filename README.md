@@ -1,2 +1,3 @@
 # gists
 Because organizations can't have gists.....
+Check the [wiki](https://github.com/MinisterioPublicoRJ/gists/wiki) to see the code!
